@@ -34,6 +34,6 @@ Enlace de proyecto final wokwi: https://wokwi.com/projects/410189198269298689
 
 Enlace- Proyecto navideño: https://wokwi.com/projects/410325937829649409
 ## Videos
-Video explicativo: 
+Video explicativo: https://youtu.be/QPsfgyp3DVs
 ## Capturas de Evaluaciones de Curso de C
 Resultados- curso C: https://drive.google.com/drive/folders/1ZmQ9jRhmBklKQTZc9T5Bq4FJUjNtkb9f?usp=sharing
